@@ -1,0 +1,1 @@
+Link: <a href="https://www.hackerrank.com/challenges/30-inheritance/problem">here</a>
